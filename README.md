@@ -20,3 +20,11 @@
 * **R6 / R15 フル対応**
   どのようなアバター形式でも追跡・描写が崩れることなく動作します。
 
+---
+
+### 💬 公式オープンチャット
+
+スクリプトの更新情報や使い方、各種解説、質問・サポートはこちらのオープンチャットで受け付けています。
+
+* **オプチャ名**：れいおん鯖/delta・script・解説・roblox
+* **参加リンク**：[LINE オープンチャットに参加する](https://line.me/ti/g2/PQE3S6_ciPLpS5qKSy8nY0nSUV8tvBa4V4bewA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
